@@ -239,7 +239,7 @@ Apple deprecated the `alert(item:)` modifier in iOS 15, but many developers stil
 
 ## License
 
-MIT License - see LICENSE file for details.
+Apache 2.0 license - see LICENSE file for details.
 
 ## Contributing
 
